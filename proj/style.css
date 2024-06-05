@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: caladea;
+    box-sizing: border-box;
+}
+
+#logo-nav-div{
+    width: 100%;
+    min-height: 50 px;
+    margin-bottom: 10px;
+}
+
+#logo-div{
+    width: 50%;
+    min-height: 50px;
+    background-color: rgb(199, 188, 29);
+    float: left;
+    line-height: 50px;
+    padding-left: 2%;
+}
+
+.img-fluid{
+    max-width: 150px;
+    width: 10vw;
+}
