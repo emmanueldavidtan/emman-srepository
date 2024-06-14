@@ -67,4 +67,8 @@
     line-height: 100px;
     background-color: rgba(255, 238, 3, 0.535);
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
