@@ -56,7 +56,9 @@
     line-height: 400px;
     background-color: rgba(255, 238, 0, 0.308);
     align-items: center;
+    justify-content: center;
     text-align: center;
+    flex-direction: column;
     float: left;
 }
 #footer-div{
