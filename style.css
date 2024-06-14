@@ -5,6 +5,12 @@
     box-sizing: border-box;
 }
 
+.imgwrap{
+    text-align: center;
+    max-width: 18em;
+    flex: 0 0 auto;
+}
+
 #logo-nav-div{
     width: 100%;
     min-height: 50px;
