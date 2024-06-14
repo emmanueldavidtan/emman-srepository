@@ -59,7 +59,7 @@
     justify-content: center;
     text-align: center;
     flex-direction: column;
-    float: left;
+    float: right;
 }
 #footer-div{
     width: 100%;
