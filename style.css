@@ -7,6 +7,8 @@
 
 .imgwrap{
     max-width: 18em;
+    max-height: 18em;
+    overflow: hidden;
 }
 
 #logo-nav-div{
